@@ -13,10 +13,10 @@
       "relation": "isPartOf",
       "identifier": "https://www.buddhistuniversity.net"
     },{
-      "relation": "isDerivedFrom",
+      "relation": "isPreviousVersionOf",
       "identifier": "https://github.com/buddhist-uni/imgs"
     },{
-      "relation": "isReferencedBy",
+      "relation": "isRequiredBy",
       "identifier": "https://doi.org/10.5281/zenodo.4448510"
     }
   ],
